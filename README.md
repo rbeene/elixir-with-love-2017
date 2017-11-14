@@ -11,11 +11,11 @@ PRs welcome!
 ### Talks
 
 #### Cultural Keynote: How do we shape community? by [Anna Neyzberg](https://twitter.com/aneyzb)
-- [Slides]()
+- [Slides]() Submit a PR!
 - Links:
 
 #### Managing Tables with Elixir and OTP by [Robert Beene](https://twitter.com/robert_beene)
-- [Slides]()
+- [Slides]()Submit a PR!
 - Links:
   
 
@@ -24,27 +24,27 @@ PRs welcome!
 - Links:
 
 #### Building a Community For Beginners by [Jennifer Konikowski](https://github.com/jmkoni)
-- [Slides]()
+- [Slides]()Submit a PR!
 - Links:
 
 #### You’re Just Not My Type: Using Dialyzer to bring type checking to your Elixir code by [Emma Cunningham](https://twitter.com/emmatcu)
-- [Slides]()
+- [Slides]()Submit a PR!
 - Links:
 
 #### Property-based testing is a mindset by [Andrea Leopardi](https://twitter.com/whatyouhide)
-- [Slides]()
+- [Slides]()Submit a PR!
 - Links:
 
 #### Deployment without Angst: Patterns for modern Elixir DevOps by [Scottt Taylor](https://twitter.com/staylorwr)
-- [Slides]()
+- [Slides]()Submit a PR!
 - Links:
 
 #### Functional Full-Stack Systems with Elixir, Phoenix, Nerves, and Elm by [Greg Mefford](https://twitter.com/ferggo)
-- [Slides]()
+- [Slides]()Submit a PR!
 - Links:
 
 #### Idea Scaling by [Hannah Howard](https://twitter.com/techgirlwonder)
-- [Slides]()
+- [Slides]()Submit a PR!
 - Links:
 
 #### Technical Keynote: Elixir 1.6 by [James Fish](https://github.com/fishcakez)
