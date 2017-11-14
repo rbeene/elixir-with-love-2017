@@ -20,7 +20,7 @@ PRs welcome!
 #### Managing Tables with Elixir and OTP by [Robert Beene](https://twitter.com/robert_beene)
 - [Slides]() Submit a PR!
 - Links:
-  
+
 
 #### Phoenix and React: A Ticket to Flyby [Catherine Zoller](http://twitter.com/mojo_cathy)
 - [Slides](https://gitpitch.com/cathyzoller/ticket_to_fly)
@@ -42,8 +42,8 @@ PRs welcome!
 - [Slides]() Submit a PR!
 - Links:
 
-#### Deployment without Angst: Patterns for modern Elixir DevOps by [Scottt Taylor](https://twitter.com/staylorwr)
-- [Slides]() Submit a PR!
+#### Deployment without Angst: Patterns for modern Elixir DevOps by [Scott Taylor](https://twitter.com/staylorwr)
+- [Slides](https://github.com/staylorwr/ewl-slides)
 - Links:
 
 #### Functional Full-Stack Systems with Elixir, Phoenix, Nerves, and Elm by [Greg Mefford](https://twitter.com/ferggo)
