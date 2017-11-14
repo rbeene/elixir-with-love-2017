@@ -27,8 +27,12 @@ PRs welcome!
 - Links:
 
 #### Building a Community For Beginners by [Jennifer Konikowski](https://github.com/jmkoni)
-- [Slides]() Submit a PR!
+- [Slides](https://speakerdeck.com/jmkoni/building-a-community-for-all-people)
 - Links:
+  - [“Why Is There More Than One Women In Tech Group”](https://medium.com/i-m-h-o/why-there-is-more-than-one-women-in-tech-group-b192e12dad3a), Selena Deckleman
+  - [“Lunch with Dads”](http://blog.ellenchisa.com/2014/08/23/lunch-dads/), Ellen Chisa
+  - [“Why Diverse Teams Are Smarter”](https://hbr.org/2016/11/why-diverse-teams-are-smarter), David Rock & Heidi Grant
+  - [BONUS: “How I Stopped Worrying And Started Loving PyLadies”](https://hynek.me/articles/how-i-stopped-worrying-and-started-loving-pyladies/), Hynek Schlawack
 
 #### You’re Just Not My Type: Using Dialyzer to bring type checking to your Elixir code by [Emma Cunningham](https://twitter.com/emmatcu)
 - [Slides](https://docs.google.com/presentation/d/1D5PonYjU8GjW-Glp8HO77rOAhXRZXvWtjwPtRowtEMY/edit?usp=sharing)
