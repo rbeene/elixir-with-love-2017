@@ -28,7 +28,7 @@ PRs welcome!
 - Links:
 
 #### You’re Just Not My Type: Using Dialyzer to bring type checking to your Elixir code by [Emma Cunningham](https://twitter.com/emmatcu)
-- [Slides]() Submit a PR!
+- [Slides](https://docs.google.com/presentation/d/1D5PonYjU8GjW-Glp8HO77rOAhXRZXvWtjwPtRowtEMY/edit?usp=sharing)
 - Links:
 
 #### Property-based testing is a mindset by [Andrea Leopardi](https://twitter.com/whatyouhide)
