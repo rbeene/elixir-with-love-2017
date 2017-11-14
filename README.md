@@ -47,8 +47,17 @@ PRs welcome!
 - Links:
 
 #### Functional Full-Stack Systems with Elixir, Phoenix, Nerves, and Elm by [Greg Mefford](https://twitter.com/ferggo)
-- [Slides]() Submit a PR!
+- [Slides](https://github.com/GregMefford/presentations/releases/download/2017-11-10/Functional_Full-Stack_Systems_with_Elixir_Phoenix_Nerves_and_Elm.pdf)
 - Links:
+  - ["The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+  - [Kevlin Henney's Twitter stream](https://twitter.com/KevlinHenney)
+  - [`nerves_neopixel` library](https://github.com/GregMefford/nerves_neopixel)
+  - [Gary Rennie: "The Road to 2 Million Websocket Connections in Phoenix"](https://youtu.be/c6JcVwbOGXc)
+  - [Griffin Byatt: "Plugging the Security Holes in Your Phoenix Application"](https://youtu.be/w3lKmFsmlvQ)
+  - [Bruce Williams and Ben Wilson: "Live APIs with GraphQL Subscriptions"](https://youtu.be/PEckzwggd78)
+  - [Jessica Kerr: "Adventures in Elm"](https://youtu.be/cgXhMc8M4X4)
+  - [Tomasz Kowal: "Elixir and Elm: The Perfect Couple"](https://youtu.be/mIwD27qqr5U)
+  - [Richard Feldman: "Make the Back-End Team Jealous: Elm in Production"](https://youtu.be/FV0DXNB94NE)
 
 #### Idea Scaling by [Hannah Howard](https://twitter.com/techgirlwonder)
 - [Slides]() Submit a PR!
