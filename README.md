@@ -8,6 +8,9 @@ A collection of links that cover content from Elixir with Love 2017
 
 PRs welcome!
 
+### Photos
+
+- [Echobind Blog](https://blog.echobind.com/elixir-with-love-f1fe5e9a1f2)
 ### Talks
 
 #### Cultural Keynote: How do we shape community? by [Anna Neyzberg](https://twitter.com/aneyzb)
