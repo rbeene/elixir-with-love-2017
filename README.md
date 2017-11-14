@@ -48,7 +48,7 @@ PRs welcome!
 - Links:
 
 #### Technical Keynote: Elixir 1.6 by [James Fish](https://github.com/fishcakez)
-- [Slides] () Submit a PR!
+- [Slides]() Submit a PR!
 - Links:
 
 This format is totally and completely inspired by [Lauren Tan's](https://twitter.com/sugarpirate_) open archive of many of my favorite conferences.
