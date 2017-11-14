@@ -20,7 +20,7 @@ PRs welcome!
   
 
 #### Phoenix and React: A Ticket to Flyby [Catherine Zoller](http://twitter.com/mojo_cathy)
-- [Slides]()
+- [Slides](https://gitpitch.com/cathyzoller/ticket_to_fly)
 - Links:
 
 #### Building a Community For Beginners by [Jennifer Konikowski](https://github.com/jmkoni)
